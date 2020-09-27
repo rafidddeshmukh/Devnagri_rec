@@ -1,2 +1,2 @@
 # Devnagri_rec
-Ecovation_project
+Eckovation_project
